@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestEudeka</string>
+    <string name="test_eudeka">Test Eudeka</string>
+    <string name="menampilkan_hello_word">Menampilkan Hello World</string>
+    <string name="hello_world_case">Hello World Case</string>
+</resources>
