@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TestEudeka">
-        <activity android:name=".PalindromeActivity"></activity>
+        <activity android:name=".EmailFormatActivity"></activity>
+        <activity android:name=".PalindromeActivity" />
         <activity android:name=".ReverseWordActivity" />
         <activity android:name=".HelloWorldActivity" />
         <activity android:name=".MainActivity">

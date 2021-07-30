@@ -27,5 +27,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, PalindromeActivity::class.java)
             startActivity(intent)
         }
+        binding.btnEmail.setOnClickListener {
+            val intent = Intent(this, EmailFormatActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 }
