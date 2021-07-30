@@ -23,5 +23,9 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, ReverseWordActivity::class.java)
             startActivity(intent)
         }
+        binding.btnPalindrome.setOnClickListener {
+            val intent = Intent(this, PalindromeActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
